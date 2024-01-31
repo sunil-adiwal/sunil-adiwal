@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunil-adiwal
 - 👀 I’m interested in programming languages and applications
-- 🌱 I’m currently studying B.Tech in CSE Stream
+- 🌱 Completed B.Tech in CSE Stream
 - 💞️ I’m looking to collaborate on Google
 - 📫 message me or mail me at suniladiwal98@gmail.com
 
